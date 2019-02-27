@@ -1,5 +1,5 @@
-# battery-health
-Check macOS battery health in percentage.
+# battery-info
+Check macOS battery information like health (in %age), capacity, etc.
 
 ```
 git clone https://github.com/tshrjn/battery-health
